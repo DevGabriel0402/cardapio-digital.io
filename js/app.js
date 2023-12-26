@@ -659,7 +659,7 @@ cardapio.metodos = {
     // carrega o botão do whatsApp
     carregarBotaoWhatsapp: () => {
 
-        var texto = 'Olá gostaria de saber mais *informaçõs* (vim através do site)'
+        var texto = 'Olá gostaria de saber mais *informações* (vim através do site)'
 
         let encode = encodeURI(texto)
 
